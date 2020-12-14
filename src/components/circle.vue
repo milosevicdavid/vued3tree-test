@@ -28,7 +28,7 @@ export default {
         name: "JavaScript Frameworks",
         children: [
           {
-            name: "Frontend Frameworks",
+            name: "Frontend",
             children: [
               { name: "Angular" },
               { name: "Vue.js" },
@@ -37,7 +37,7 @@ export default {
             ],
           },
           {
-            name: "Backend Frameworks",
+            name: "Backend",
             children: [
               { name: "Express" },
               { name: "Koa" },
