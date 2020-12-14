@@ -60,7 +60,7 @@ h2 {
 }
 
 .graph {
-  width: 700px;
-  height: 700px;
+  width: 650px;
+  height: 650px;
 }
 </style>

@@ -83,9 +83,10 @@ button {
   display: inline-block;
   font-size: 16px;
   cursor: pointer;
-  margin-right: 20px;
+  margin-right: 30px;
   outline: none;
   border: 1px solid black;
+  width: 138px;
 
   &:hover {
     background-color: white;
